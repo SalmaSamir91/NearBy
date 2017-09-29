@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NearBy</string>
+    <string name="action_mode">Mode</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="ok_button_label">OK</string>
+    <string name="no_data_error">No data found !!</string>
+    <string name="general_error">Something went wrong !!</string>
+    <string name="permission_alert_title">Permession Required</string>
+    <string name="permission_alert_description">Location permission is required for this application to run, please enable permissions from settings screen</string>
+    <string name="permission_alert_settings_button">Open Settings</string>
+
+    <string-array name="modes">
+        <item>Real Time</item>
+        <item>Single Update</item>
+    </string-array>
+</resources>
